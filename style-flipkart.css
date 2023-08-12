@@ -310,6 +310,7 @@ p{
     display: flex;
     flex-direction: column;
     text-align: center;
+    border-radius: 0 0 0.2rem 0.2rem ;
   }
   .offer-head {
     display: flex;
